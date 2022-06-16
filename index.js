@@ -1,1 +1,1 @@
-alert ("hola platzi!")
+alert ("hola test platzi!")
